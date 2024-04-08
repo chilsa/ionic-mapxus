@@ -1,0 +1,8 @@
+{
+  "name": "ionic_mapxus",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "9c450d19"
+}
